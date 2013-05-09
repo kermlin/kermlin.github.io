@@ -1,0 +1,3 @@
+User-agent: *
+Host: xn--80ahlg0aiwp.xn--p1ai
+Disallow: /putin-vor
